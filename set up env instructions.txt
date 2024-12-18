@@ -1,0 +1,20 @@
+python -m venv venv
+.\venv\Scripts\activate
+
+pip3 install torch torchvision torchaudio
+pip install ultralytics
+pip install opencv-python
+pip install numpy pandas matplotlib
+
+D:\mecze MJO dron\cutVersion.mp4
+
+curl -L -o yolov5s.pt "https://github.com/ultralytics/yolov5/releases/download/v6.1/yolov5s.pt"
+
+https://github.com/ultralytics/yolov5/releases/download/v6.1/yolov5s.pt
+https://pytorch.org/
+
+https://github.com/ZQPei/deep_sort_pytorch/blob/master/README.md
+
+
+Download ckpt.t7
+
